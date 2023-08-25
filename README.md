@@ -1,35 +1,44 @@
-# interview-junior-fullstack-javascript
+# Interview for Junior Fullstack JavaScript Position
 
-Dear applicant, 
+Dear Applicant,
 
-thank you again for applying for the Junior Fullstack developer position at it-excelsus GmbH. With the following task we would like to verify your coding skills. Expected timeline for this assignemtn is to be finished in one week.
+Thank you once again for applying for the Junior Fullstack Developer position at it-excelsus GmbH. With the following task, we would like to assess your coding skills. The expected timeline for this assignment is one week.
 
-Below you can find 3 folders. The frontend and backend are just simple inital applications generaed from respective CLI tools. The [`frontend`](./frontend) is an React.ts application and the [`backend`](./backend) is a NestJS 10 backend application. The [`database`](./database) is an example of how a database could look like when contains data.
+Below, you will find three folders. The "frontend" and "backend" folders contain simple initial applications generated using their respective CLI tools. The [`frontend`](./frontend) contains a React.ts application, and the [`backend`](./backend) contains a Express  backend application. The [`database`](./database) folder provides an example of what a database could look like when it contains data.
 
 ## What is the task?
 
-1. On the frontend replace the existing content with a form where you can search for a city and list the results in some list formatted below. Design the application as you please.
-2. On the backend prepare an endpoint to return the list of the cities which is matching the entry submitted from the frontend. Ideally, you will return up to 5 entries per page. As well as implement CRUD endpoints to Create, Read, Update and Delete new cities.
-3. On the database create a database of your choise (SQL or NoSQL) what would be in your opinion better for this usecase.
+1. **Frontend:** Replace the existing content with a form that allows users to search for a city and list the results in a formatted list below. You have the freedom to design the application as you see fit.
 
-Bonus: When you can implement the CRUD endpoints into the frontend as well.
+2. **Backend:** Create an endpoint that returns a list of cities matching the search entry submitted from the frontend. Ideally, this endpoint should return up to five entries per page. Additionally, implement CRUD (Create, Read, Update, Delete) endpoints to manage city data.
+
+3. **Database:** Choose a database type (SQL or NoSQL) that, in your opinion, would be better suited for this use case, and set up a database accordingly.
+
+**Bonus:** Implement the CRUD functionality in the frontend as well.
 
 ## Tips
 
-- You should make sure your code is functional.
-- You should also handle possible edge cases.
-- You should be happy with your solution.
-- Do you know how to test? This could be your chance to learn!
-- Any progress would be good to track over git commits.
+- Ensure that your code is functional.
+- Handle potential edge cases.
+- Strive for a solution you are satisfied with.
+- Interested in testing? This could be an excellent opportunity to learn!
+- Keep track of your progress through git commits.
 
-## Are you done?
+## Are you finished?
 
-You can give us the accomplished assignemtn in 2 ways of your choise: 
-1. Create a fork of our repository and send us a link to your Github repository when you are finished, or
-2. Remove the `node_modules` folder in both applications and pack it into an archive and send it over email.
+You can submit the completed assignment in either of two ways:
 
-## You need help?
+1. **GitHub Repository:** Fork our repository, complete the task, and send us the link to your GitHub repository.
+2. **Archive Submission:** Remove the `node_modules` folders from both applications, pack the directories into an archive, and send it to us via email.
 
-To get more help please read the documentation:
-- React check out the [React docs](https://react.dev/learn) page
-- ExpressJS check out the [Express docs](https://devdocs.io/express/) page
+## Need assistance?
+
+For additional help, please refer to the documentation:
+- For React, consult the [React docs](https://react.dev/learn) page.
+- For ExpressJS, check out the [Express docs](https://devdocs.io/express/) page.
+
+We look forward to reviewing your submission.
+
+Best regards,
+
+it-excelsus GmbH
