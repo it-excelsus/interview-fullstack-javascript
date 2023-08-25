@@ -4,12 +4,15 @@ Dear applicant,
 
 thank you again for applying for the Junior Fullstack developer position at it-excelsus GmbH. With the following task we would like to verify your coding skills. Expected timeline for this assignemtn is to be finished in one week.
 
-Below you can find 2 folders. Borth are just simple inital applications generaed from respective CLI tools. The [`frontend`](./frontend) is an React.ts application and the [`backend`](./backend) is a NestJS 10 backend application.
+Below you can find 3 folders. The frontend and backend are just simple inital applications generaed from respective CLI tools. The [`frontend`](./frontend) is an React.ts application and the [`backend`](./backend) is a NestJS 10 backend application. The [`database`](./database) is an example of how a database could look like when contains data.
 
 ## What is the task?
 
-1. On the frontend replace the existing content with a form where you can search for a city and list the results in some list formatted below.
-2. On the backend prepare an endpoint to return the list of the cities which is matching the entry submitted from the frontend. Ideally, you will return up to 5 entries per page.
+1. On the frontend replace the existing content with a form where you can search for a city and list the results in some list formatted below. Design the application as you please.
+2. On the backend prepare an endpoint to return the list of the cities which is matching the entry submitted from the frontend. Ideally, you will return up to 5 entries per page. As well as implement CRUD endpoints to Create, Read, Update and Delete new cities.
+3. On the database create a database of your choise (SQL or NoSQL) what would be in your opinion better for this usecase.
+
+Bonus: When you can implement the CRUD endpoints into the frontend as well.
 
 ## Tips
 
