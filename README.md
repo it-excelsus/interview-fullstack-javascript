@@ -1,4 +1,4 @@
-# Interview for Junior Fullstack JavaScript Position
+# Interview for Junior Fullstack JavaScript Position Test
 
 Dear Applicant,
 
