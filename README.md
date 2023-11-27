@@ -2,9 +2,9 @@
 
 Dear Applicant,
 
-Thank you once again for applying for the Junior Fullstack Developer position at it-excelsus GmbH. With the following task, we would like to assess your coding skills. The expected timeline for this assignment is one week.
+Thank you once again for applying for the Junior Fullstack Developer position at it-excelsus GmbH. With the following task, we would like to assess your coding skills. The expected timeline for this assignment is **one week**.
 
-Below, you will find three folders. The "frontend" and "backend" folders contain simple initial applications generated using their respective CLI tools. The [`frontend`](./frontend) contains a React.ts application, and the [`backend`](./backend) contains a Express  backend application. The [`database`](./database) folder provides an example of what a database could look like when it contains data.
+Below, you will find three folders. The "frontend" and "backend" folders contain simple initial applications generated using their respective CLI tools. The [`frontend`](./frontend) contains a React.ts application, and the [`backend`](./backend) contains a Express backend application. The [`database`](./database) folder provides an example of what a database could look like when it contains data.
 
 ## What is the task?
 
