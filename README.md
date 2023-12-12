@@ -29,7 +29,7 @@ Below, you will find three folders. The "frontend" and "backend" folders contain
 You can submit the completed assignment in either of two ways:
 
 1. **GitHub Repository:** Fork our repository, complete the task, and send us the link to your GitHub repository.
-2. **Archive Submission:** Remove the `node_modules` folders from both applications, pack the directories into an archive, and send it to us via email.
+2. **Archive Submission:** Remove the `node_modules` folders from both applications, pack the directories into an archive, and send it to us via [email](mailto:recruiting@it-excelsus.de).
 
 ## Need assistance?
 
