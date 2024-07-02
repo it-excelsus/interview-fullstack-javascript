@@ -1,10 +1,10 @@
-# Interview for Junior Fullstack JavaScript Position
+# Interview for the Position as Fullstack JavaScript Developer
 
 Dear Applicant,
 
-Thank you once again for applying for the Junior Fullstack Developer position at it-excelsus GmbH. With the following task, we would like to assess your coding skills. The expected timeline for this assignment is **one week**.
+Thank you once again for applying for the Fullstack Developer position at it-excelsus GmbH. With the following task, we would like to assess your coding skills. The expected timeline for this assignment is **one week**.
 
-Below, you will find three folders. The "frontend" and "backend" folders contain simple initial applications generated using their respective CLI tools. The [`frontend`](./frontend) contains a React.ts application, and the [`backend`](./backend) contains a Express backend application. The [`database`](./database) folder provides an example of what a database could look like when it contains data.
+Below, you will find three folders. The "frontend" and "backend" folders contain simple initial applications generated using their respective CLI tools. The [`frontend`](./frontend) contains a React.ts application, and the [`backend`](./backend) contains an Express backend application. The [`database`](./database) folder provides an example of what a database could look like when it contains data.
 
 ## What is the task?
 
@@ -28,7 +28,7 @@ Below, you will find three folders. The "frontend" and "backend" folders contain
 
 You can submit the completed assignment in either of two ways:
 
-1. **GitHub Repository:** Fork our repository, complete the task, and send us the link to your GitHub repository.
+1. **GitHub Repository:** Fork our repository, complete the task and send us the link to your GitHub repository.
 2. **Archive Submission:** Remove the `node_modules` folders from both applications, pack the directories into an archive, and send it to us via [email](mailto:recruiting@it-excelsus.de).
 
 ## Need assistance?
